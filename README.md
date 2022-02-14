@@ -2,11 +2,11 @@
 
 🙅🏻‍♂️ Eu sou o Alessandro, sou Desenvolvedor Front-End há +2 anos.
 
-🎮 Sou apaixonado por eSports e tecnologia. Acredito em um mundo em constante transformação por meio de agilidade e descontração.
+🎮 Sou apaixonado por e-sports e tecnologia. Acredito em um mundo em constante transformação por meio de agilidade e descontração.
 
-👨🏻‍💻 Atualmente estou trabalhando como Desenvolvedor Front End na NextSoft Tecnologia e sou representante do curso Bacharelado Sistemas de Informação no Centro Universitário Senac.
+👨🏻‍💻 Atualmente estou trabalhando como Desenvolvedor Front End na SíndicoNet e sou representante do curso Bacharelado Sistemas de Informação no Centro Universitário Senac.
 
-☕ Tecnologia, eSports e café fazem parte do meu dia-a-dia, estou me capacitando para fazer parte de um time que moderniza os recursos.
+☕ Tecnologia, e-sports e café (muito café) fazem parte do meu dia-a-dia.
 
 🚀 #tech #frontend #developer
 
