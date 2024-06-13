@@ -8,11 +8,15 @@ Minha jornada profissional tem sido marcada por desafios emocionantes e projetos
 
 ## 💻 Tecnologias que Eu Utilizo
 
-![HTML5](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)
-![CSS3](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg)
-![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
-![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
-![Node.js](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ## 🎮 Gamer Dedicado
 
